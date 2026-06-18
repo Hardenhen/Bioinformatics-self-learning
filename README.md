@@ -1,6 +1,6 @@
 # Bioinformatics 自学指南
-> _a wiki for learners to learn Bioinformatics
-> _Everyone should have a chance to learn Bioinformatics.
+> a wiki for learners to learn Bioinformatics
+> Everyone should have a chance to learn Bioinformatics.
 
 作为一名生物科学出身的生物信息学（计算生物学）的初学者，我深感生物信息学是一门非常有趣且富有挑战性的学科。然而，由于缺乏系统的学习资源和指导，我在学习过程中遇到了很多困难。因此，我决定创建一个生物信息学自学指南，帮助像我这样的初学者更好地学习这门学科。
 
